@@ -1,0 +1,2 @@
+# bankWithDictionary
+Golang study project 
